@@ -1,33 +1,5 @@
 [
   {
-    "title": "Aki07 - Unified",
-    "type": 1,
-    "description": "Express provider for Syncler by Aki07. It contains all the sources you will need in one package. Use this package on its own.",
-    "repositoryUrl": "https://github.com/itzAki07/scraper",
-    "packageUrl": "https://raw.githubusercontent.com/itzAki07/scraper/main/scraper.json"
-  },
-  {
-    "title": "OpenScrapers - Express",
-    "type": 1,
-    "description": "Express provider for Syncler by SynclerScrapers. It contains all the sources you will need in one package. Use this package on its own.",
-    "repositoryUrl": "https://github.com/SynclerScrapers/OpenScrapers",
-    "packageUrl": "https://raw.githubusercontent.com/SynclerScrapers/OpenScrapers/main/express/openscraper.json"
-  },
-  {
-    "title": "Squizzle - Ultimate",
-    "type": 1,
-    "description": "Express provider for Syncler by Squizzle. It contains all the sources you will need in one package. Use this package on its own.",
-    "repositoryUrl": "https://github.com/providers4syncler/providers",
-    "packageUrl": "https://raw.githubusercontent.com/providers4syncler/providers/main/squizzle"
-  },
-  {
-    "title": "Squizzle - Fast",
-    "type": 1,
-    "description": "Express provider for Syncler by Squizzle. It contains the minimal amount of sources for faster searches, but compromises on the amount of results.",
-    "repositoryUrl": "https://github.com/providers4syncler/providers",
-    "packageUrl": "https://raw.githubusercontent.com/providers4syncler/providers/main/fast"
-  },
-  {
     "title": "JakedUp - Hybrid (including Orion providers)",
     "type": 1,
     "description": "Express provider for Syncler by JakedUp. It contains all the sources you will need in one package. Use this package on its own. Visit the repository URL for more information.",
